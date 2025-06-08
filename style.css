@@ -251,8 +251,7 @@ footer {
     .section-title { font-size: 2rem; }
 
     .navbar { padding: 0 5%; }
-
-    /* --- Advanced Hamburger Menu --- */
+    
     .menu-icon {
         display: flex;
         flex-direction: column;
